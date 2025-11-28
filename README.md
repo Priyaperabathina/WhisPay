@@ -1,4 +1,4 @@
-## Voice2Voice Bank Assistant
+## WhisPay
 
 ![project-flow](project_info/project-flow.png) 
 
@@ -95,6 +95,3 @@ Available targets:
   test_frontend   - Run frontend tests
   history_db      - Start the database using Docker Compose
 ```
-
-I have been looking to upgrade upon my previous [finance assistant](https://github.com/divakaivan/personal_finance_assistant) project for a while. I am glad I found [this](https://substack.com/home/post/p-155677310) article which introduced me to more advanced usage of FastAPI and also PydanticAI. This upgraded version focuses primarily on server development, interactions through a websocket, incorporating asynchronous operations for improved responsiveness, type checking for better reliability, and AI Agents to interact with the customer transaction database. 
-
